@@ -22,7 +22,7 @@ O sistema PetLife é um Sistema de Gerenciamento de Clínica Veterinária, desen
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://link-do-repo.git
+   git clone https://github.com/Danielonemore/ProjetoReadme.md/tree/main/trabalho-api-main
    ```
 
 2. **Navegue até o diretório do projeto:**
